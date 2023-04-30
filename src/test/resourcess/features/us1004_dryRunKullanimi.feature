@@ -1,6 +1,6 @@
 Feature: us1004 Kullanici amazonda urun aratip 2.urun detaylarini test eder
 
-  @wip
+
   Scenario: TC09 Kullanici arama sonuclarinin istedigi urunu test edebilmeli
 
     * kullanici "amazonUrl" anasayfasina gider
